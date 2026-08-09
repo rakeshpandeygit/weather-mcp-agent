@@ -10,5 +10,5 @@ venv/
 *.log
 .DS_Store
 prompt*.txt
-docs/urls/databricks*.txt
-docs/urls/git*.txt
+docs/urls/databricks*
+docs/urls/git*
