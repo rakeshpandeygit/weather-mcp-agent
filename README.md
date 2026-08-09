@@ -115,10 +115,12 @@ The deployed MCP server was attached as a tool to a Databricks Playground model 
 ![Multi-day forecast for Austin](docs/screenshots/02-forecast-austin.png)
 *Multi-day forecast — model selected `get_forecast` with Austin and `days=3`.*
 
-![Travel guidance for Wisconsin](docs/screenshots/03-travel-wisconsin.png)
+![Travel guidance for Wisconsin](docs/screenshots/03-1-travel-wisconsin.png)
+![Travel guidance for Wisconsin](docs/screenshots/03-2-travel-wisconsin.png)
 *Multi-step agent reasoning — user asked about travel to Wisconsin; the model resolved Milwaukee and used weather tools to provide clothing and umbrella guidance.*
 
-![Weather comparison](docs/screenshots/04-weather-comparison.png)
+![Weather comparison](docs/screenshots/04-1-weather-comparison.png)
+![Weather comparison](docs/screenshots/04-2-weather-comparison.png)
 *Bonus capability — weather comparison between Chicago and Austin.*
 
 **Example prompts used:**
