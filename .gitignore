@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+.idea/
+.vscode/
+*.log
+.DS_Store
+prompt*.txt
+docs/urls/databricks*.txt
+docs/urls/git*.txt
